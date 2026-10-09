@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jubair Islam
 
-<!--
-**jubairislam7/jubairislam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BBA (Hons) Human Resource Management** | **MSc Business Analytics student, [University Name]**
 
-Here are some ideas to get you started:
+I'm interested in how data can improve business and people decisions,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+- MSc Business Analytics — [Aston University], [2026–2027] (in progress)
+- BA Human Resource Management — [North South University], [2020-2024]
+
+### 🛠 Skills
+- **Data & analytics:** Excel, SQL, [Python (learning) / Tableau (Learning) / Power BI ]
+- **Business:** report writing, HR strategy, data interpretation, presenting insights
+
+### 📂 My work
+- [Academic Portfolio](https://github.com/[your-username]/academic-portfolio) — selected HRM reports and Business Analytics assignments
+
+
+### 📫 Contact
+- LinkedIn: [your LinkedIn link]
+- Email: [your professional email]
