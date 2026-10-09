@@ -11,7 +11,7 @@ I'm interested in how data can improve business and people decisions,
 - BA Human Resource Management — [North South University], [2020-2024]
 
 ### 🛠 Skills
-- **Data & analytics:** Excel, SQL, [Python (learning) / Tableau (Learning) / Power BI ]
+- **Data & analytics:** Adobe Illustrator, Excel, SQL (Learning), Python (learning), Tableau (Learning),  Power BI 
 - **Business:** report writing, HR strategy, data interpretation, presenting insights
 
 ### 📂 My work
