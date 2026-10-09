@@ -19,4 +19,4 @@ I'm interested in how data can improve business and people decisions,
 
 
 ### 📫 Contact
-- Email: [shourovjubair@gmail.com]
+- Email: shourovjubair@gmail.com
