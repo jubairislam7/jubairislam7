@@ -1,6 +1,6 @@
 # Hi, I'm Jubair Islam
 
-**BBA (Hons) Human Resource Management** | **MSc Business Analytics student, [University Name]**
+**BBA (Hons) Human Resource Management** | **MSc Business Analytics student,**
 
 I'm interested in how data can improve business and people decisions,
 
@@ -19,5 +19,4 @@ I'm interested in how data can improve business and people decisions,
 
 
 ### 📫 Contact
-- LinkedIn: [your LinkedIn link]
-- Email: [your professional email]
+- Email: [shourovjubair@gmail.com]
