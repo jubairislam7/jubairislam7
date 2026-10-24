@@ -15,7 +15,7 @@ I'm interested in how data can improve business and people decisions,
 - **Business:** report writing, HR strategy, data interpretation, presenting insights
 
 ### 📂 My work
-- [Academic Portfolio](https://github.com/[your-username]/academic-portfolio) — selected HRM reports and Business Analytics assignments
+- [Academic Portfolio](https://github.com/jubairislam7/academic-portfolio) — selected HRM reports and Business Analytics assignments
 
 
 ### 📫 Contact
