@@ -1,6 +1,6 @@
 # Hi, I'm Jubair Islam
 
-**BBA (Hons) Human Resource Management** | **MSc Business Analytics student,**
+**MSc Business Analytics student**|**BBA (Hons) Human Resource Management** 
 
 I'm interested in how data can improve business and people decisions,
 
